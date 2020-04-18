@@ -34,22 +34,22 @@ An android application by which the Traffic police of any area can detect any dr
 ## Features
 
 ### Driver Registration
-<img src="img/register.PNG" border="1">
+<img src="img/register.png" border="1">
 
 <br />
 
 ### Driver Login
-<img src="img/login.PNG" border="1">
+<img src="img/login.png" border="1">
 
 <br />
 
 ### Speed Meter
-<img src="img/speedmeter.PNG" border="1">
+<img src="img/speedmeter.png" border="1">
 
 <br />
 
 ### Global Positioning System
-<img src="img/gps.PNG" border="1">
+<img src="img/location.png" border="1">
 
 <br />
 
