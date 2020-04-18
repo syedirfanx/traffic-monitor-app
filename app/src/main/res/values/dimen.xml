@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digit_width">75dp</dimen>
+    <dimen name="digit_height">10dp</dimen>
+    <dimen name="md_height">6dp</dimen>
+    <dimen name="md_width">50dp</dimen>
+</resources>
