@@ -1,4 +1,5 @@
 # Traffic Monitor App - Red Light
+### CSE 299 Junior Project Design (Fall 2018)
 An android application by which the Traffic police of any area can detect any driver who will exceed the speed limit of 40kph in front of Schools, Colleges, Universities, Hospitals and any other sensitive places by tracking through GPS.
 
 <table>
