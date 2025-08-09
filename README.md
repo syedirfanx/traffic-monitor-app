@@ -1,6 +1,6 @@
-# Traffic Monitor App - Red Light
+# Traffic Monitor App
 ### CSE 299 Junior Project Design (Fall 2018)
-An android application by which the Traffic police of any area can detect any driver who will exceed the speed limit of 40kph in front of Schools, Colleges, Universities, Hospitals and any other sensitive places by tracking through GPS.
+An Android app that helps traffic authorities detect speed limit violations in sensitive zones using GPS tracking.
 
 <table>
   <tr>
@@ -11,46 +11,10 @@ An android application by which the Traffic police of any area can detect any dr
 
 
 
-#### An Android Application for monitoring traffic with the features described bellow. 
-<table>
-  <tr>
-    <td> 1 </td>
-    <td> Driver Login & Driver Registration Page</td>
-  </tr>
-  <tr>
-    <td> 2 </td>
-    <td> Speed Meter</td>
-  </tr>
-  <tr>
-    <td> 3 </td>
-    <td> Global Positioning System</td>
-  </tr>
-  <tr>
-    <td> 4 </td>
-    <td> Auto send notification to Traffic Police</td>
-  </tr>
-  
-</table>
+### Features
 
-## Features
 
-### Driver Registration
-<img src="img/register.png" border="1" width="250" height="450">
-
-<br />
-
-### Driver Login
-<img src="img/login.png" border="1" width="250" height="450">
-
-<br />
-
-### Speed Meter
-<img src="img/speedmeter.png" border="1" width="250" height="450">
-
-<br />
-
-### Global Positioning System
-<img src="img/location.png" border="1" width="250" height="450">
-
-<br />
+|        Registration      |        Login         |        Speed Meter         |        GPS         |
+| :-------------------: | :-------------------: | :-------------------: | :-------------------: |
+| <img src="img/register.png" border="1" width="250" height="450"> | <img src="img/login.png" border="1" width="250" height="450"> | <img src="img/speedmeter.png" border="1" width="250" height="450"> | <img src="img/location.png" border="1" width="250" height="450"> |
 
