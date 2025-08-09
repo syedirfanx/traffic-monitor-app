@@ -11,7 +11,7 @@ An Android app that helps traffic authorities detect speed limit violations in s
 
 
 
-### Features
+### Pages
 
 
 |        Registration      |        Login         |        Speed Meter         |        GPS         |
